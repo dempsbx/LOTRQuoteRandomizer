@@ -38,7 +38,7 @@ Ensure you replace the Bearer token in the `headers` constant with your own vali
 To run the script:
 
 \```bash
-node LOTRQuoteRandomizer.js
+node LOTRQuotes.js
 \```
 
 ## License
