@@ -1,7 +1,7 @@
 // Authorization header for API
 const headers = {
   Accept: "application/json",
-  Authorization: "Bearer rskCGx3SIPwjkuBtxVcp",
+  Authorization: "Bearer INSERT_API_KEY_HERE",
 };
 
 // Get and log random quote, the character who said it, and the movie it was said in
