@@ -43,7 +43,7 @@ node LOTRQuoteRandomizer.js
 
 ## License
 
-Feel free to use, modify, and distribute this script as you see fit. Please give credit if you use this in a public project.
+Feel free to use, modify, and distribute this script as you see fit.
 
 ## Acknowledgments
 
