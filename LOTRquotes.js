@@ -49,7 +49,7 @@ function getMovieName(movieId) {
   if (movieId == "5cd95395de30eff6ebccde5c") {
     movieName = "The Fellowship of the Ring";
   } else if (movieId == "5cd95395de30eff6ebccde5b") {
-    movieName = "The Twin Towers";
+    movieName = "The Two Towers";
   } else if (movieId == "5cd95395de30eff6ebccde5d") {
     movieName = "The Return of the King";
   } else if (movieId == "5cd95395de30eff6ebccde58") {
